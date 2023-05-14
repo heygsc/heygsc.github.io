@@ -1,1 +1,0 @@
-# heygsc.github.io
