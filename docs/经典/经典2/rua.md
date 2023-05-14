@@ -1,3 +1,0 @@
-# rua
-
-![rua](./rua.jpg)
