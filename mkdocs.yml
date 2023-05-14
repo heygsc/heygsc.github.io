@@ -1,4 +1,7 @@
 site_name: 黑盒圣经
+site_url: https://heygsc.github.io
+site_author: heygsc
+
 theme: windmill
 
 nav:
